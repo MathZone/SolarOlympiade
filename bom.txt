@@ -1,1 +1,10 @@
-HC-SR04
+HC-SR04 
+- ultrasonic distance sensor
+pros:
+	- cheap
+	- 2-400cm distance
+cons:
+	-big
+	-15mA power draw
+	-5V DC
+	
