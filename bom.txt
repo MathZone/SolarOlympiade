@@ -16,7 +16,7 @@ https://www.antratek.be/teensy-4-1
 		-lots of pins (55)
 		-super fast (600MHz ipv 16MHz van Arduino Mega)
 	cons:
-		-expensive (~17eur)
+		-expensive (~27eur)
 		-3.3v logic level
 
 Teensy 4.0 -mcu
@@ -26,7 +26,7 @@ https://www.antratek.be/teensy-4-0
 		-still lots of pins (40)
 		-600MHz
 	cons:
-		-cheaper than 4.1 but still expensive (~20eur)
+		-cheaper than 4.1 but still expensive (~17eur)
 		-3.3v logic level
 
 Logic Level Converter - Bi-Directional Logic Level Converter
