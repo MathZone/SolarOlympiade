@@ -19,6 +19,7 @@ https://www.antratek.be/teensy-4-1
 		-expensive (~27eur)
 		-3.3v logic level
 
+
 Teensy 4.0 -mcu
 https://www.antratek.be/teensy-4-0
 
@@ -28,6 +29,7 @@ https://www.antratek.be/teensy-4-0
 	cons:
 		-cheaper than 4.1 but still expensive (~17eur)
 		-3.3v logic level
+
 
 Logic Level Converter - Bi-Directional Logic Level Converter
 https://www.sparkfun.com/products/12009
