@@ -1,10 +1,39 @@
-HC-SR04 
-- ultrasonic distance sensor
+HC-SR04 -ultrasonic distance sensor
+https://www.hobbyelectronica.nl/product/hc-sr04-ultrasone-sensor/
 pros:
 	- cheap (~3eur per)
 	- 2-400cm distance
 cons:
 	-big
 	-15mA power draw
-	-5V DC
-	
+	-5V DC power / logic level
+
+
+Teensy 4.1 -mcu
+https://www.antratek.be/teensy-4-1
+
+	pros:
+		-lots of pins (55)
+		-super fast (600MHz ipv 16MHz van Arduino Mega)
+	cons:
+		-expensive (~17eur)
+		-3.3v logic level
+
+Teensy 4.0 -mcu
+https://www.antratek.be/teensy-4-0
+
+	pros:
+		-still lots of pins (40)
+		-600MHz
+	cons:
+		-cheaper than 4.1 but still expensive (~20eur)
+		-3.3v logic level
+
+Logic Level Converter - Bi-Directional Logic Level Converter
+https://www.sparkfun.com/products/12009
+
+	pros:
+		-3.3v to 5v conversion
+		-5v to 3.3v conversion
+	cons:
+		-extra shit
