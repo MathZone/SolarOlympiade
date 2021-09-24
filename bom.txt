@@ -1,7 +1,7 @@
 HC-SR04 
 - ultrasonic distance sensor
 pros:
-	- cheap
+	- cheap (~3eur per)
 	- 2-400cm distance
 cons:
 	-big
