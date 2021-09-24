@@ -1,7 +1,8 @@
 # SolarOlympiade
 
-## Toestel voor blinde mensen  
+## haptic Vest voor blinde mensen  
 
-> afstandsensor die trilt  
+afstandssensors
 
-> grond checker
+zonnepaneel op rug om batterij op te laden
+
