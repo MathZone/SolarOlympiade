@@ -39,3 +39,7 @@ https://www.sparkfun.com/products/12009
 		-5v to 3.3v conversion
 	cons:
 		-extra shit
+		-3eur per and probs need for each and every sensor
+
+(TODO: find cheaper bi-directional logic level converter)
+
