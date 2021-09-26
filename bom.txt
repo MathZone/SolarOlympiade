@@ -57,4 +57,18 @@ https://www.gotron.be/solar-power-manager-5v.html
 		-we need something like this
 		-also usb charge
 	cons:
-		-none?
+		-none
+
+
+Mini Vibration Motor, Seeed Studio
+https://www.distrelec.be/en/mini-vibration-motor-seeed-studio-316040001/p/30109531
+~€2
+
+	
+	pros:
+		-smol
+		-cheap
+		-3.3v
+	cons:
+		- idk what amperage
+		
