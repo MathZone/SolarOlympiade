@@ -1,5 +1,7 @@
 HC-SR04 -ultrasonic distance sensor
 https://www.hobbyelectronica.nl/product/hc-sr04-ultrasone-sensor/
+€2,45
+
 pros:
 	- cheap (~3eur per)
 	- 2-400cm distance
@@ -11,6 +13,7 @@ cons:
 
 Teensy 4.1 -mcu
 https://www.antratek.be/teensy-4-1
+~27eur
 
 	pros:
 		-lots of pins (55)
@@ -22,6 +25,7 @@ https://www.antratek.be/teensy-4-1
 
 Teensy 4.0 -mcu
 https://www.antratek.be/teensy-4-0
+~17 eur
 
 	pros:
 		-still lots of pins (40)
@@ -31,8 +35,9 @@ https://www.antratek.be/teensy-4-0
 		-3.3v logic level
 
 
-Logic Level Converter - Bi-Directional Logic Level Converter
-https://www.sparkfun.com/products/12009
+Sparkfun Logic Level Converter - Bi-Directional Logic Level Converter
+https://www.gotron.be/logic-level-converter-bi-directional.html
+€3.57
 
 	pros:
 		-3.3v to 5v conversion
@@ -43,3 +48,14 @@ https://www.sparkfun.com/products/12009
 
 (TODO: find cheaper bi-directional logic level converter)
 
+
+DfRobot Solar power manager 5V
+https://www.gotron.be/solar-power-manager-5v.html
+~€11
+
+	pros:
+		-we need something like this
+		-also usb charge
+	cons:
+		-none?
+		
