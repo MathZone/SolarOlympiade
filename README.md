@@ -6,3 +6,6 @@ afstandssensors
 
 zonnepaneel op rug om batterij op te laden
 
+> speech synthesys
+
+> vibration motors
