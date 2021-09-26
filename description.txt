@@ -1,0 +1,3 @@
+Het nut van deze fluojas is dat blinde mensen gewoon kunnen rondlopen zonder tegen obstakels te lopen. 
+
+En we gaan dat doen door 4 sonor sensors met een hoek op een fluohest te zetten in de vorm van een vierkant. Als er object in een radius van 250 cm voor de persoon komt dan geven we dat door aan de gebruiker door een vibratie motor op de borst aangebracht. en die motortjes brengen we aan op de borst onder de sonor sensors aan. en dan de sensor die het object waarneemt geeft dan een signaal aan de vibratie moter dat er onderzit om zo de gebruiker te informeren waar het obstakel is.
