@@ -58,4 +58,3 @@ https://www.gotron.be/solar-power-manager-5v.html
 		-also usb charge
 	cons:
 		-none?
-		
