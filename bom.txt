@@ -11,18 +11,6 @@ cons:
 	-5V DC power / logic level
 
 
-Teensy 4.1 -mcu
-https://www.antratek.be/teensy-4-1
-~27eur
-
-	pros:
-		-lots of pins (55)
-		-super fast (600MHz ipv 16MHz van Arduino Mega)
-	cons:
-		-expensive (~27eur)
-		-3.3v logic level
-
-
 Teensy 4.0 -mcu
 https://www.antratek.be/teensy-4-0
 ~17 eur
@@ -61,8 +49,8 @@ https://www.gotron.be/solar-power-manager-5v.html
 
 
 Mini Vibration Motor, Seeed Studio
-https://www.distrelec.be/en/mini-vibration-motor-seeed-studio-316040001/p/30109531
-~€2
+https://opencircuit.nl/product/1034-Platte-vibratie-motor
+~€2 voor 5
 
 	
 	pros:
@@ -70,5 +58,5 @@ https://www.distrelec.be/en/mini-vibration-motor-seeed-studio-316040001/p/301095
 		-cheap
 		-3.3v
 	cons:
-		- idk what amperage
+		- 60mA
 		
